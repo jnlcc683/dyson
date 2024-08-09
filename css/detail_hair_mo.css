@@ -644,7 +644,7 @@
     .page7_desc{
         font-size: 16.5px;
         font-weight: 600;
-        width: 90%;
+        width: 50%;
         margin: 0 auto;
         text-align: center;
         padding-top: 6%;
@@ -779,7 +779,7 @@
     
     .page8{
         width: 100%;
-        padding-bottom: 220%;
+        padding-bottom: 290%;
         /* height: 100vh; */
         /* border: 1px solid red; */
         position: relative;
